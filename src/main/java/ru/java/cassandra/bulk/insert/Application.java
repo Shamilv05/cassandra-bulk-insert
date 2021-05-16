@@ -1,3 +1,5 @@
+package ru.java.cassandra.bulk.insert;
+
 import com.datastax.driver.core.Cluster;
 import com.datastax.driver.core.ResultSet;
 import com.datastax.driver.core.Row;
